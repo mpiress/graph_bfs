@@ -73,9 +73,12 @@ Para projetar a ideia acima apresentada sob um código é preciso estabelecer va
 </p>
 
 >
-> **cor[u]**: vetor utilizado para indicar os vértices atingíveis. 
+> **cor[u]**: vetor utilizado para indicar os vértices atingíveis.
+> 
 > **$\pi$[u]**: indica o vértice predecessor do vértice $u$.
+>
 > **d[u]**: Indicativo de distância desde a origem. Atua para reportar o número de saltos de $v_0$ até o vértice $u$. 
+>
 > **Q**: Utilizado como fila para armazenar temporariamente os vértices conhecidos. Sua estrutra é pensada para condicionar tais vértices sob uma política FIFO de observação. 
 >
 
