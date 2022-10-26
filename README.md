@@ -87,7 +87,7 @@ Dado as definições de auxiliares acima descritas, tem-se como algoritmo de exe
 </p>
 
 <p align="center">
-  <img src="imgs/grafo2.png" /><br/>
+  <img src="imgs/bfs.png" /><br/>
   <caption>Fig 3. Algoritmo representativo da estratégia BFS.</caption>
 </p>
 
